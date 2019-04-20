@@ -1,0 +1,15 @@
+{
+  "name": "NPM",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Scripts is working';"
+  },
+  "keywords": [],
+  "author": "Amir Mahdi Khorshidi",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
